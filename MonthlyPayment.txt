@@ -1,0 +1,8 @@
+pay day for staff members
+ ==========================
+ id[name=michael, id=2222] salary: 32444.5 social number: 235679765status: INSTAFF
+ id[name=dan, id=3333] salary manager: 5056.0 social number: 2345235
+ id[name=oleg, id=4444] salary: 129.05555555555554 number of work hours: 10.0 social number: 2444566
+ id[name=zohar, id=5555] volunteer 	 pay:0
+=================================
+ total payment: 36129.555555555555
